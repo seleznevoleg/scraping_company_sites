@@ -1,0 +1,3 @@
+2024-09-27 11:59:59,362 INFO: Logging setup complete.
+2024-09-27 11:59:59,362 ERROR: File not found: /mnt/data/portals_for_testing.xlsx
+2024-09-27 11:59:59,362 WARNING: URL list has fewer entries than the requested random count.

@@ -1,0 +1,379 @@
+2024-09-27 12:04:44,326 INFO: Logging setup complete.
+2024-09-27 12:04:44,640 INFO: Loaded 250 URLs from Excel file.
+2024-09-27 12:04:44,640 INFO: Starting scrape for www.pilze-niklas.com/impressum
+2024-09-27 12:04:44,640 DEBUG: Scraping job ads from www.pilze-niklas.com/impressum
+2024-09-27 12:04:44,641 ERROR: Error fetching www.pilze-niklas.com/impressum: Invalid URL 'www.pilze-niklas.com/impressum': No scheme supplied. Perhaps you meant https://www.pilze-niklas.com/impressum?
+2024-09-27 12:04:44,641 INFO: Starting scrape for https://www.bam-sports.de/de
+2024-09-27 12:04:44,641 DEBUG: Scraping job ads from https://www.bam-sports.de/de
+2024-09-27 12:04:44,698 DEBUG: Starting new HTTPS connection (1): www.bam-sports.de:443
+2024-09-27 12:04:44,814 DEBUG: https://www.bam-sports.de:443 "GET /de HTTP/1.1" 301 0
+2024-09-27 12:04:44,854 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:45,118 DEBUG: https://www.zech-sports.de:443 "GET / HTTP/1.1" 200 7285
+2024-09-27 12:04:45,145 INFO: No job ads found in https://www.zech-sports.de, scraping for links.
+2024-09-27 12:04:45,147 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:45,343 DEBUG: https://www.zech-sports.de:443 "GET / HTTP/1.1" 200 7285
+2024-09-27 12:04:45,365 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /
+2024-09-27 12:04:45,365 DEBUG: Found link: /hauptnavigation/unternehmen with text: unternehmen
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:45,365 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/betrieb
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/consulting
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/netzwerk
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:45,366 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:45,366 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /
+2024-09-27 12:04:45,366 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/unternehmen
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:45,366 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /kontakt#c88
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:45,367 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /karriere
+2024-09-27 12:04:45,367 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on #
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on https://www.xing.com/pages/zech-hochbau
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on http://www.linkedin.com/company/zech-hochbau
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on https://www.youtube.com/channel/UCtbuLxe_1ZpHv1Drwzifibw
+2024-09-27 12:04:45,367 DEBUG: No job menu links found on https://www.facebook.com/zechhochbau
+2024-09-27 12:04:45,368 DEBUG: No job menu links found on http://www.instagram.com/zechhochbau
+2024-09-27 12:04:45,368 DEBUG: No job menu links found on https://www.kununu.com/de/zech-hochbau1
+2024-09-27 12:04:45,368 DEBUG: No job menu links found on #
+2024-09-27 12:04:45,368 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:45,368 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:45,368 DEBUG: Scraping job ads from https://www.zech-sports.de/karriere/job-finder
+2024-09-27 12:04:45,370 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:45,806 DEBUG: https://www.zech-sports.de:443 "GET /karriere/job-finder HTTP/1.1" 200 12242
+2024-09-27 12:04:45,908 INFO: Job ads found in https://www.zech-sports.de/karriere/job-finder: ['(Junior) Bauführer (m/w/d) für die Ausbildung zum Werkpolier', 'Bauleiter (m/w/d) Mieterausbau (Stuttgart)', 'Versorgungsingenieur / Elektroingenieur (m/w/d)  Ausschreibung und Vergabe  im Bereich TGA / Elektro', 'Kalkulator (m/w/d)  im Bereich Schlüsselfertigbau/ Industriebau', 'Kalkulator im Bereich Baukonstruktion/ Schlüsselfertigbau (m/w/d)', 'Bauleiter (m/w/d) Aus- & Umbau Bestandsimmobilien', 'Projektleiter TGA im Gesundheitsbereich (m/w/d)', 'Kalkulator (m/w/d) im Bereich Baukonstruktion', 'Bauleiter (m/w/d) Elektrotechnik', 'Kalkulator (m/w/d) im Bereich TGA/Elektro', '(Junior) Kalkulator (m/w/d) im Bereich TGA/Elektro', 'Bauleiter (m/w/d) im Bereich TGA-HLSK', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Projektleiter (m/w/d) Elektrotechnik', 'Projektleiter m/w/d) TGA', '(Bau-)Abrechner (m/w/d) im Bereich Hochbau / Schlüsselfertigbau', 'Projektleitung (m/w/d) Mieterausbau mit Perspektive Führungsposition', '(Junior) Ingenieur/ Techniker/ Meister für Projekte in der Fassadentechnik (m/w/d)', '(Senior) Bauingenieur, Techniker oder Architekt für Fassadentechnik (m/w/d)', 'Ingenieur oder Techniker für das berufsbegleitende Zertifikatsstudium Fachingenieur Fassade (m/w/d) in unbefristeter Festanstellung', 'Projektleiter Großprojekte (m/w/d)', 'Kalkulation und Ausschreibung (m/w/d) im SF- Hochbau', 'Projektmanager z. B. erfahrener Projektkaufmann / Baukaufmann (m/w/d)', 'Anlagenmechaniker / Installateur als Servicetechniker (m/w/d)  im Bereich Heizung / Lüftung / Sanitär / Klima', 'Kalkulator Baukonstruktion  (m/w/d)', 'Elektroplaner (m/w/d)', 'Kaufmännischer Sachbearbeiter im Bauwesen (m/w/d) Schwerpunkt Projektcontrolling / Nachunternehmer-Betreuung', 'Projektleiter Großprojekte (m/w/d)', '(Junior) Planungskoordinator (m/w/d) mit Baustelleneinsatz', 'Kalkulator Baukonstruktion  (m/w/d)', 'Fachkraft für Arbeitssicherheit (m/w/d)', 'Bauleitung Elektrotechnik (m/w/d)', 'Praktikant oder Werkstudent in der Bauleitung (m/w/d)', 'Kalkulator Mieterausbau / Aus- & Umbau (m/w/d)', 'Arbeitsvorbereiter Rohbau (m/w/d)', 'Projektleiter (m/w/d) TGA', 'Anlagenmechaniker / Installateur als Servicetechniker (m/w/d) im Bereich Heizung / Lüftung / Sanitär / Klima', '(Senior) Einkäufer für Roh - und Ausbauleistungen (m/w/d)', 'Bauleiter (m/w/d) Termincontrolling / Terminplanung', 'Praktikant (m/w/d)  in der Planungskoordination', 'Architekt / Bauingenieur/ Techniker (m/w/d) Ausschreibung mit Schwerpunkt Massenermittlung im Bereich Ausbau - Teilzeit', 'Praktikant (m/w/d) Bauleitung im Ausbau', 'Polierkoordinator (m/w/d) für Großprojekte', 'kaufm. Sachbearbeitung/  (Junior) Projektkaufmann/ Baukaufmann (m/w/d) im Bauwesen', 'Teamassistenz im Bauwesen (m/w/d)', 'Gesamtprojektleitung/ Technische Leitung (m/w/d) im SF Bau', 'Werkstudent (m/w/d)  im Facility Management / in der Objektleitung', 'Bauführer/ Polier (m/w/d) Hochbau im Rohbau', 'Projektleitung (m/w/d) Baukonstruktion', '(Senior) Einkäufer für Roh - und Ausbauleistungen (m/w/d)', '(Junior) Planungskoordinator (m/w/d)', 'Gesamtprojektleitung/Technische Leitung (m/w/d)', 'Projektleitung (m/w/d) Baukonstruktion', 'Teamassistenz / Projektassistenz im Bauwesen (m/w/d)', 'Technischer Systemplaner (m/w/d)', 'Bauführer/ Polier (m/w/d) Hochbau im Ausbau', 'Architekt / Bauingenieur (m/w/d)  Ausschreibung und Vergabe im Bereich Rohbau', 'Architekt / Bauingenieur (m/w/d)  Ausschreibung und Vergabe im Bereich Ausbau', 'Projektkaufmann/-frau mit Perspektive Kaufmännische Projektleitung (m/w/d)', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Bauleiter (m/w/d)   HLSK', 'Teamassistenz/ Projektassistenz im Baustelleneinsatz (m/w/d)', 'Bauführer/ Polier (m/w/d) für Projekte im  Hochbau/ Schlüsselfertigbau', 'Bauleiter Hochbau/ SF-Bau (m/w/d)', 'Bauführer, Polier (m/w/d)  Rohbau / Ausbau', 'Kalkulation im Bereich TGA (m/w/d)', 'Bauleiter Rohbau im Hochbau / SF-Bau (m/w/d)', 'Projektleiter im Hochbau / SF-Bau (m/w/d)', 'Bauleiter Ausbau im Hochbau / SF-Bau (m/w/d)', 'Teamassistenz/ Vertriebsassistenz im Bauwesen (m/w/d)', 'Werkstudent (m/w/d) im Bereich Facility Management (CAFM) und Objektleitung', 'Bauleiter TGA (m/w/d) HLSK/ Elektro im Hochbau', 'Teamassistenz (m/w/d)', 'Vertragsmanager (m/w/d)', 'Projektleiter oder Bauleiter TGA - HLSK (m/w/d)', 'Bauzeichner (m/w/d) in der Kalkulation', 'Bauleitung Ausbau (m/w/d)', 'Bauführer, Polier (m/w/d) Schwerpunkt Ausbau', 'Werkstudent (m/w/d) in der Objektleitung im Facility Management', '(Bau-)Ingenieur oder Meister / Techniker als Bauleiter TGA (m/w/d)', 'Projektleiter (m/w/d) im Bereich Hochbau/ Industriebau', 'Technischer Angebotsleiter (m/w/d) Gesundheit', 'Bauführer, Polier (m/w/d) Schwerpunkt TGA-HLSK', 'Teamassistenz / Projektassistenz im Bauwesen (m/w/d)', 'Bauleiter (m/w/d) Rohbau/ Ausbau im Hochbau', '(Junior) Mitarbeiter im Tender-/Vertragsmanagement (m/w/d)', 'Werkstudent (m/w/d) in der Bauleitung', 'Bauingenieur / Techniker oder Architekt  als Projektleiter im Bereich (Innen-)Ausbau (m/w/d)']
+2024-09-27 12:04:45,908 DEBUG: Scraping job ads from https://www.zech-sports.de/hauptnavigation/unternehmen
+2024-09-27 12:04:45,911 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:46,103 DEBUG: https://www.zech-sports.de:443 "GET /hauptnavigation/unternehmen HTTP/1.1" 200 7413
+2024-09-27 12:04:46,128 INFO: No job ads found in https://www.zech-sports.de/hauptnavigation/unternehmen, scraping for links.
+2024-09-27 12:04:46,130 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:46,348 DEBUG: https://www.zech-sports.de:443 "GET /hauptnavigation/unternehmen HTTP/1.1" 200 7413
+2024-09-27 12:04:46,414 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/unternehmen
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,414 DEBUG: Found link: /hauptnavigation/unternehmen with text: unternehmen
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen
+2024-09-27 12:04:46,414 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/betrieb
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/consulting
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/netzwerk
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,415 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:46,415 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/unternehmen
+2024-09-27 12:04:46,415 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:46,415 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:46,416 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on #
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on https://www.xing.com/pages/zech-hochbau
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on http://www.linkedin.com/company/zech-hochbau
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on https://www.youtube.com/channel/UCtbuLxe_1ZpHv1Drwzifibw
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on https://www.facebook.com/zechhochbau
+2024-09-27 12:04:46,416 DEBUG: No job menu links found on http://www.instagram.com/zechhochbau
+2024-09-27 12:04:46,417 DEBUG: No job menu links found on https://www.kununu.com/de/zech-hochbau1
+2024-09-27 12:04:46,417 DEBUG: No job menu links found on #
+2024-09-27 12:04:46,417 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:46,417 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:46,417 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:46,417 DEBUG: Already visited https://www.zech-sports.de/hauptnavigation/unternehmen, skipping.
+2024-09-27 12:04:46,417 DEBUG: Scraping job ads from https://www.zech-sports.de/karriere
+2024-09-27 12:04:46,420 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:46,627 DEBUG: https://www.zech-sports.de:443 "GET /karriere HTTP/1.1" 200 7019
+2024-09-27 12:04:46,650 INFO: No job ads found in https://www.zech-sports.de/karriere, scraping for links.
+2024-09-27 12:04:46,652 DEBUG: Starting new HTTPS connection (1): www.zech-sports.de:443
+2024-09-27 12:04:46,857 DEBUG: https://www.zech-sports.de:443 "GET /karriere HTTP/1.1" 200 7019
+2024-09-27 12:04:46,877 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /karriere
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /
+2024-09-27 12:04:46,877 DEBUG: Found link: /hauptnavigation/unternehmen with text: unternehmen
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:46,877 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/betrieb
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/consulting
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/netzwerk
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,878 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:46,878 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /karriere
+2024-09-27 12:04:46,878 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,878 DEBUG: Found link: https://www.zech-hochbau.de/karriere with text: zech hochbau ag - karriere seite
+2024-09-27 12:04:46,878 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,878 DEBUG: Found link: https://www.zech-hochbau.de/karriere with text: karriere
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on https://www.zech-hochbau.de/karriere
+2024-09-27 12:04:46,878 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:46,878 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on #
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on https://www.xing.com/pages/zech-hochbau
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on http://www.linkedin.com/company/zech-hochbau
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on https://www.youtube.com/channel/UCtbuLxe_1ZpHv1Drwzifibw
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on https://www.facebook.com/zechhochbau
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on http://www.instagram.com/zechhochbau
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on https://www.kununu.com/de/zech-hochbau1
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on #
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:46,879 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:46,880 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:46,880 DEBUG: Already visited https://www.zech-sports.de/hauptnavigation/unternehmen, skipping.
+2024-09-27 12:04:46,880 DEBUG: Already visited https://www.zech-sports.de/karriere, skipping.
+2024-09-27 12:04:46,880 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:46,880 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:46,880 DEBUG: Scraping job ads from https://www.zech-hochbau.de/karriere
+2024-09-27 12:04:46,894 DEBUG: Starting new HTTPS connection (1): www.zech-hochbau.de:443
+2024-09-27 12:04:47,147 DEBUG: https://www.zech-hochbau.de:443 "GET /karriere HTTP/1.1" 200 9284
+2024-09-27 12:04:47,181 INFO: No job ads found in https://www.zech-hochbau.de/karriere, scraping for links.
+2024-09-27 12:04:47,183 DEBUG: Starting new HTTPS connection (1): www.zech-hochbau.de:443
+2024-09-27 12:04:47,388 DEBUG: https://www.zech-hochbau.de:443 "GET /karriere HTTP/1.1" 200 9284
+2024-09-27 12:04:47,418 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /karriere
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/buero-campus
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/gesundheit-forschung
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/hotel
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/wohnen
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /loesungen/justizvollzug
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/industriebauten
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on https://www.zech-fm.de/
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on https://www.zech-fm.de/
+2024-09-27 12:04:47,418 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /smart-construction
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/partner
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/partner/kunden
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/partner/nachunternehmer
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/partner/mitgliedschaften
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/arbeitssicherheit
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/nachhaltigkeit
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/lean-construction
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/digital-construction
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/holz-hybrid-bauweise
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/auszeichnungen
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/zertifikate
+2024-09-27 12:04:47,419 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /karriere/praktikum-ausbildung
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /karriere/studierende
+2024-09-27 12:04:47,419 DEBUG: No job menu links found on /karriere/festanstellung
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/benefits
+2024-09-27 12:04:47,420 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:47,420 DEBUG: Found link: /hauptnavigation/unternehmen with text: unternehmen
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /hauptnavigation/partner/verhaltenskodex
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere
+2024-09-27 12:04:47,420 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:47,420 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/festanstellung
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/festanstellung#c134
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/praktikum-ausbildung
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/praktikum-ausbildung#c123
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/studierende
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/studierende#c132
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/benefits
+2024-09-27 12:04:47,420 DEBUG: No job menu links found on /karriere/benefits#c133
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on #
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on #
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on #
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /karriere/festanstellung#c168
+2024-09-27 12:04:47,421 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:47,421 DEBUG: No job menu links found on #
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on https://www.zech-hochbau.de/fileadmin/user_upload/Webseite/Downloads/ZHB-D-PRO-GL-0001_Allgemeine_Einkaufsbedingungen__AEB_.pdf
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on https://www.xing.com/pages/zech-hochbau
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on http://www.linkedin.com/company/zech-hochbau
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on https://www.youtube.com/channel/UCtbuLxe_1ZpHv1Drwzifibw
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on https://www.facebook.com/zechhochbau
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on http://www.instagram.com/zechhochbau
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on https://www.kununu.com/de/zech-hochbau1
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on #
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:47,422 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:47,422 DEBUG: Scraping job ads from https://www.zech-hochbau.de/karriere/job-finder
+2024-09-27 12:04:47,425 DEBUG: Starting new HTTPS connection (1): www.zech-hochbau.de:443
+2024-09-27 12:04:47,793 DEBUG: https://www.zech-hochbau.de:443 "GET /karriere/job-finder HTTP/1.1" 200 12792
+2024-09-27 12:04:47,888 INFO: Job ads found in https://www.zech-hochbau.de/karriere/job-finder: ['(Junior) Bauführer (m/w/d) für die Ausbildung zum Werkpolier', 'Bauleiter (m/w/d) Mieterausbau (Stuttgart)', 'Versorgungsingenieur / Elektroingenieur (m/w/d)  Ausschreibung und Vergabe  im Bereich TGA / Elektro', 'Kalkulator (m/w/d)  im Bereich Schlüsselfertigbau/ Industriebau', 'Kalkulator im Bereich Baukonstruktion/ Schlüsselfertigbau (m/w/d)', 'Bauleiter (m/w/d) Aus- & Umbau Bestandsimmobilien', 'Projektleiter TGA im Gesundheitsbereich (m/w/d)', 'Kalkulator (m/w/d) im Bereich Baukonstruktion', 'Bauleiter (m/w/d) Elektrotechnik', 'Kalkulator (m/w/d) im Bereich TGA/Elektro', '(Junior) Kalkulator (m/w/d) im Bereich TGA/Elektro', 'Bauleiter (m/w/d) im Bereich TGA-HLSK', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Projektleiter (m/w/d) Elektrotechnik', 'Projektleiter m/w/d) TGA', '(Bau-)Abrechner (m/w/d) im Bereich Hochbau / Schlüsselfertigbau', 'Projektleitung (m/w/d) Mieterausbau mit Perspektive Führungsposition', '(Junior) Ingenieur/ Techniker/ Meister für Projekte in der Fassadentechnik (m/w/d)', '(Senior) Bauingenieur, Techniker oder Architekt für Fassadentechnik (m/w/d)', 'Ingenieur oder Techniker für das berufsbegleitende Zertifikatsstudium Fachingenieur Fassade (m/w/d) in unbefristeter Festanstellung', 'Projektleiter Großprojekte (m/w/d)', 'Kalkulation und Ausschreibung (m/w/d) im SF- Hochbau', 'Projektmanager z. B. erfahrener Projektkaufmann / Baukaufmann (m/w/d)', 'Anlagenmechaniker / Installateur als Servicetechniker (m/w/d)  im Bereich Heizung / Lüftung / Sanitär / Klima', 'Kalkulator Baukonstruktion  (m/w/d)', 'Elektroplaner (m/w/d)', 'Kaufmännischer Sachbearbeiter im Bauwesen (m/w/d) Schwerpunkt Projektcontrolling / Nachunternehmer-Betreuung', 'Projektleiter Großprojekte (m/w/d)', '(Junior) Planungskoordinator (m/w/d) mit Baustelleneinsatz', 'Kalkulator Baukonstruktion  (m/w/d)', 'Fachkraft für Arbeitssicherheit (m/w/d)', 'Bauleitung Elektrotechnik (m/w/d)', 'Praktikant oder Werkstudent in der Bauleitung (m/w/d)', 'Kalkulator Mieterausbau / Aus- & Umbau (m/w/d)', 'Arbeitsvorbereiter Rohbau (m/w/d)', 'Projektleiter (m/w/d) TGA', 'Anlagenmechaniker / Installateur als Servicetechniker (m/w/d) im Bereich Heizung / Lüftung / Sanitär / Klima', '(Senior) Einkäufer für Roh - und Ausbauleistungen (m/w/d)', 'Bauleiter (m/w/d) Termincontrolling / Terminplanung', 'Praktikant (m/w/d)  in der Planungskoordination', 'Architekt / Bauingenieur/ Techniker (m/w/d) Ausschreibung mit Schwerpunkt Massenermittlung im Bereich Ausbau - Teilzeit', 'Praktikant (m/w/d) Bauleitung im Ausbau', 'Polierkoordinator (m/w/d) für Großprojekte', 'kaufm. Sachbearbeitung/  (Junior) Projektkaufmann/ Baukaufmann (m/w/d) im Bauwesen', 'Teamassistenz im Bauwesen (m/w/d)', 'Gesamtprojektleitung/ Technische Leitung (m/w/d) im SF Bau', 'Werkstudent (m/w/d)  im Facility Management / in der Objektleitung', 'Bauführer/ Polier (m/w/d) Hochbau im Rohbau', 'Projektleitung (m/w/d) Baukonstruktion', '(Senior) Einkäufer für Roh - und Ausbauleistungen (m/w/d)', '(Junior) Planungskoordinator (m/w/d)', 'Gesamtprojektleitung/Technische Leitung (m/w/d)', 'Projektleitung (m/w/d) Baukonstruktion', 'Teamassistenz / Projektassistenz im Bauwesen (m/w/d)', 'Technischer Systemplaner (m/w/d)', 'Bauführer/ Polier (m/w/d) Hochbau im Ausbau', 'Architekt / Bauingenieur (m/w/d)  Ausschreibung und Vergabe im Bereich Rohbau', 'Architekt / Bauingenieur (m/w/d)  Ausschreibung und Vergabe im Bereich Ausbau', 'Projektkaufmann/-frau mit Perspektive Kaufmännische Projektleitung (m/w/d)', 'Bauleiter (m/w/d) im Bereich Ausbau', 'Bauleiter (m/w/d)   HLSK', 'Teamassistenz/ Projektassistenz im Baustelleneinsatz (m/w/d)', 'Bauführer/ Polier (m/w/d) für Projekte im  Hochbau/ Schlüsselfertigbau', 'Bauleiter Hochbau/ SF-Bau (m/w/d)', 'Bauführer, Polier (m/w/d)  Rohbau / Ausbau', 'Kalkulation im Bereich TGA (m/w/d)', 'Bauleiter Rohbau im Hochbau / SF-Bau (m/w/d)', 'Projektleiter im Hochbau / SF-Bau (m/w/d)', 'Bauleiter Ausbau im Hochbau / SF-Bau (m/w/d)', 'Teamassistenz/ Vertriebsassistenz im Bauwesen (m/w/d)', 'Werkstudent (m/w/d) im Bereich Facility Management (CAFM) und Objektleitung', 'Bauleiter TGA (m/w/d) HLSK/ Elektro im Hochbau', 'Teamassistenz (m/w/d)', 'Vertragsmanager (m/w/d)', 'Projektleiter oder Bauleiter TGA - HLSK (m/w/d)', 'Bauzeichner (m/w/d) in der Kalkulation', 'Bauleitung Ausbau (m/w/d)', 'Bauführer, Polier (m/w/d) Schwerpunkt Ausbau', 'Werkstudent (m/w/d) in der Objektleitung im Facility Management', '(Bau-)Ingenieur oder Meister / Techniker als Bauleiter TGA (m/w/d)', 'Projektleiter (m/w/d) im Bereich Hochbau/ Industriebau', 'Technischer Angebotsleiter (m/w/d) Gesundheit', 'Bauführer, Polier (m/w/d) Schwerpunkt TGA-HLSK', 'Teamassistenz / Projektassistenz im Bauwesen (m/w/d)', 'Bauleiter (m/w/d) Rohbau/ Ausbau im Hochbau', '(Junior) Mitarbeiter im Tender-/Vertragsmanagement (m/w/d)', 'Werkstudent (m/w/d) in der Bauleitung', 'Bauingenieur / Techniker oder Architekt  als Projektleiter im Bereich (Innen-)Ausbau (m/w/d)']
+2024-09-27 12:04:47,889 DEBUG: Already visited https://www.zech-hochbau.de/karriere, skipping.
+2024-09-27 12:04:47,889 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:47,889 DEBUG: Scraping job ads from https://www.zech-hochbau.de/hauptnavigation/unternehmen
+2024-09-27 12:04:47,891 DEBUG: Starting new HTTPS connection (1): www.zech-hochbau.de:443
+2024-09-27 12:04:48,079 DEBUG: https://www.zech-hochbau.de:443 "GET /hauptnavigation/unternehmen HTTP/1.1" 200 8016
+2024-09-27 12:04:48,107 INFO: No job ads found in https://www.zech-hochbau.de/hauptnavigation/unternehmen, scraping for links.
+2024-09-27 12:04:48,109 DEBUG: Starting new HTTPS connection (1): www.zech-hochbau.de:443
+2024-09-27 12:04:48,300 DEBUG: https://www.zech-hochbau.de:443 "GET /hauptnavigation/unternehmen HTTP/1.1" 200 8016
+2024-09-27 12:04:48,328 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /hauptnavigation/unternehmen
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/buero-campus
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/bildung-kultur
+2024-09-27 12:04:48,328 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/gesundheit-forschung
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/hotel
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/wohnen
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /loesungen/justizvollzug
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/produkte-leistungen/industriebauten
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /loesungen/sport-eventstaetten
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on https://www.zech-fm.de/
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on https://www.zech-fm.de/
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /smart-construction
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/partner
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/partner/kunden
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/partner/lieferanten
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/partner/nachunternehmer
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/partner/mitgliedschaften
+2024-09-27 12:04:48,329 DEBUG: No job menu links found on /hauptnavigation/kompetenzen
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/arbeitssicherheit
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/nachhaltigkeit
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/lean-construction
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/digital-construction
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/holz-hybrid-bauweise
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/auszeichnungen
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/kompetenzen/zertifikate
+2024-09-27 12:04:48,330 DEBUG: Found link: /karriere with text: karriere
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /karriere/praktikum-ausbildung
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /karriere/studierende
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /karriere/festanstellung
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /karriere/benefits
+2024-09-27 12:04:48,330 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:48,330 DEBUG: Found link: /hauptnavigation/unternehmen with text: unternehmen
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/partner/verhaltenskodex
+2024-09-27 12:04:48,330 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /kontakt
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen
+2024-09-27 12:04:48,331 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/menschen
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/partner/verhaltenskodex
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/partner/verhaltenskodex
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/daten-fakten
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /hauptnavigation/unternehmen/news
+2024-09-27 12:04:48,331 DEBUG: Found link: /karriere/job-finder with text: job finder
+2024-09-27 12:04:48,331 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /karriere/job-finder
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /projekte
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on #
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on https://www.zech-hochbau.de/fileadmin/user_upload/Webseite/Downloads/ZHB-D-PRO-GL-0001_Allgemeine_Einkaufsbedingungen__AEB_.pdf
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on https://www.xing.com/pages/zech-hochbau
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on http://www.linkedin.com/company/zech-hochbau
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on https://www.youtube.com/channel/UCtbuLxe_1ZpHv1Drwzifibw
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on https://www.facebook.com/zechhochbau
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on http://www.instagram.com/zechhochbau
+2024-09-27 12:04:48,332 DEBUG: No job menu links found on https://www.kununu.com/de/zech-hochbau1
+2024-09-27 12:04:48,333 DEBUG: No job menu links found on #
+2024-09-27 12:04:48,333 DEBUG: No job menu links found on /impressum
+2024-09-27 12:04:48,333 DEBUG: No job menu links found on /datenschutz
+2024-09-27 12:04:48,333 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,333 DEBUG: Already visited https://www.zech-hochbau.de/karriere, skipping.
+2024-09-27 12:04:48,333 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,333 DEBUG: Already visited https://www.zech-hochbau.de/hauptnavigation/unternehmen, skipping.
+2024-09-27 12:04:48,333 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-hochbau.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-hochbau.de/karriere, skipping.
+2024-09-27 12:04:48,334 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,335 DEBUG: Already visited https://www.zech-sports.de/karriere, skipping.
+2024-09-27 12:04:48,336 DEBUG: Already visited https://www.zech-sports.de/karriere/job-finder, skipping.
+2024-09-27 12:04:48,336 INFO: Starting scrape for https://primapflegedienst.de/pflege-jobs/
+2024-09-27 12:04:48,336 DEBUG: Scraping job ads from https://primapflegedienst.de/pflege-jobs/
+2024-09-27 12:04:48,366 DEBUG: Starting new HTTPS connection (1): primapflegedienst.de:443
+2024-09-27 12:04:48,489 DEBUG: https://primapflegedienst.de:443 "GET /pflege-jobs/ HTTP/1.1" 200 None
+2024-09-27 12:04:48,648 INFO: Job ads found in https://primapflegedienst.de/pflege-jobs/: ['Stellvertretende Pflegedienstleitung (m/w/d) für ambulanten Pflegedienst in München-Bogenhausen', 'Pflegehelfer (m/w/d) als Minijobber für ambulanten Pflegedienst', 'Pflegehelfer (m/w/d) in Teilzeit für ambulanten Pflegedienst', 'Pflegehelfer (m/w/d) in Vollzeit für ambulanten Pflegedienst']
+2024-09-27 12:04:48,648 INFO: Starting scrape for www.menueportal.de
+2024-09-27 12:04:48,648 DEBUG: Scraping job ads from www.menueportal.de
+2024-09-27 12:04:48,649 ERROR: Error fetching www.menueportal.de: Invalid URL 'www.menueportal.de': No scheme supplied. Perhaps you meant https://www.menueportal.de?
+2024-09-27 12:04:48,649 INFO: Starting scrape for www.sanitaetshaus-fuerst.de
+2024-09-27 12:04:48,649 DEBUG: Scraping job ads from www.sanitaetshaus-fuerst.de
+2024-09-27 12:04:48,649 ERROR: Error fetching www.sanitaetshaus-fuerst.de: Invalid URL 'www.sanitaetshaus-fuerst.de': No scheme supplied. Perhaps you meant https://www.sanitaetshaus-fuerst.de?
